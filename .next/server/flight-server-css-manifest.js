@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/home/daniel/Documents/Trylabs/trylabs-landingpage/app/page":["/home/daniel/Documents/Trylabs/trylabs-landingpage/styles/globals.css"]},"/home/daniel/Documents/Trylabs/trylabs-landingpage/app/layout.js":["/home/daniel/Documents/Trylabs/trylabs-landingpage/styles/globals.css"]}
